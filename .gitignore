@@ -1,0 +1,6 @@
+.env
+cookies.txt
+session-*
+links_log.json
+downloads/
+__pycache__/

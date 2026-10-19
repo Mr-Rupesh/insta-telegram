@@ -1,0 +1,6 @@
+python-telegram-bot
+yt-dlp
+instaloader
+requests
+python-dotenv
+ 
